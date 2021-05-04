@@ -7,12 +7,12 @@ In de onderstaand video wordt er uitgelegd wat er allemaal aan orde komt tijdens
 Wanneer u in aamerking komt voor deelname aan een klinische trial zult u na het intake gesprek met uw arts in contact komen met de Trialpoli van Maastro.
 Maastro maakt gebruik van de Trialpoli voor het zorgvuldig en uitgebreid informeren van mogelijke deelnemers over de inhoud van een studie. Een medewerker van de Trialpoli zal u alles vertellen wat deelname aan het onderzoek inhoudt en wat u allemaal kunt verwachten als u zou meedoen aan een onderzoek. 
 
-**Is deelname aan een klinische trial vrijwillig? **
+**Is deelname aan een klinische trial vrijwillig?**
 
 Ja, voordat u toestemming geeft voor een deelname aan een klinische trial, wordt u voorafgaand aan de trial uitgebreid geïnformeerd door uw arts, en krijgt u aanvullende informatie van een medewerker van de trialpoli. Dit is een belangrijk proces dat ervoor zorgt dat u als patiënt begrijpt waaraan u gaat deelnemen, maar ook dat uw deelname op vrijwillige basis is.   
 Dit proces gaat ook door tijdens de klinische trial, bijv. als er nieuwe bevindingen zijn of nieuwe risico’s. U kunt op elk moment aangeven te willen stoppen met de trial.
 
-**Ben ik geschikt voor deelname aan een klinische trial? **
+**Ben ik geschikt voor deelname aan een klinische trial?**
 
 Het is niet altijd mogelijk om aan een studie deel te nemen, zelfs als u dit wenst. Als onderzoekers klinische studies opzetten, hebben zij gewoonlijk een serie strenge regels die hen helpen bij het kiezen van deelnemers. Als patiënten te ziek zijn kan het mogelijk zijn dat de behandeling niet veilig kan worden gegeven uit vrees voor bijwerkingen.
 U kunt misschien niet in aanmerking komen om deel te nemen aan het onderzoek, als:
