@@ -17,6 +17,7 @@ Fase IV
 In deze laatste stap, na registratie van de nieuwe behandeling, wordt gekeken naar de veiligheid en effectiviteit van de nieuwe behandeling op lange termijn. Er kan ook gekeken worden naar de kosten en opbrengsten van een nieuwe behandeling voor de maatschappij.
 
 
+
 Hoe werkt een loting (randomisatie)?
 
 Om in fase III studies beide groepen goed met elkaar te kunnen vergelijken en zo een betrouwbaar antwoord te geven op de vraag welke behandeling de beste resultaten biedt, bepaalt een lotingssysteem (randomisatie) welke deelnemer in welke groep terechtkomt. 
@@ -27,6 +28,7 @@ De helft van de patiënten die deelneemt krijgt de standaardbehandeling, de ande
 - Door het willekeurig verdelen van patiënten over beide groepen worden de verschillende groepen deelnemers zo gelijk mogelijk gehouden met één uitzondering: de nieuwe behandeling. Alle andere factoren die de behandeling zouden kunnen beïnvloeden over beide groepen verdeelt. 
 - De extra onderzoeken en/of controles zijn gelijk voor de standaardbehandeling én de nieuwe behandeling. 
 - Het kan zijn dat u nog niet weet welke behandeling u gaat krijgen (standaard of nieuwe) als dit geldt voor de klinische trial waaraan u gaat deelnemen wordt u dit vooraf verteld.
+
 
 
 Word ik beschermd als ik deelneem aan een klinische trial?
