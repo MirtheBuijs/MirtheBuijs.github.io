@@ -1,6 +1,6 @@
 **Klinische trials**
 
-Wat zijn de fasen van een klinische trial?
+**Wat zijn de fasen van een klinische trial?**
 
 Klinische trials worden uitgevoerd in verschillende stappen die we fasen noemen. In elke fase willen we nieuwe informatie over de behandeling en de effecten hiervan te weten komen. De verschillende fasen worden aan u als patiënt voorgesteld afhankelijk van uw conditie, het type en stadium van uw kanker. Elke nieuwe fase is afhankelijk van informatie uit een eerdere fase en vloeit hieruit voort.
 
@@ -18,7 +18,7 @@ In deze laatste stap, na registratie van de nieuwe behandeling, wordt gekeken na
 
 
 
-Hoe werkt een loting (randomisatie)?
+**Hoe werkt een loting (randomisatie)?**
 
 Om in fase III studies beide groepen goed met elkaar te kunnen vergelijken en zo een betrouwbaar antwoord te geven op de vraag welke behandeling de beste resultaten biedt, bepaalt een lotingssysteem (randomisatie) welke deelnemer in welke groep terechtkomt. 
 De helft van de patiënten die deelneemt krijgt de standaardbehandeling, de andere helft de nieuwe behandeling. Wie welke behandeling zal ondergaan, wordt bepaald door toeval. Denk hierbij bijvoorbeeld aan het opgooien van een munt: kop of munt. Meestal gebeurd het randomiseren door gebruik te maken van speciale software.   
@@ -31,7 +31,7 @@ De helft van de patiënten die deelneemt krijgt de standaardbehandeling, de ande
 
 
 
-Word ik beschermd als ik deelneem aan een klinische trial?
+**Word ik beschermd als ik deelneem aan een klinische trial?**
 
 Als u deelneemt aan een klinische trial zijn er vooraf maatregelen genomen die u zoveel mogelijk beschermen. Zo moeten de onderzoek medewerkers die betrokken zijn bij uw behandeling, zich houden aan een vooraf opgesteld protocol (onderzoeksplan) waarin het doel en de procedures van de klinische trial zijn beschreven. Dit protocol is beoordeeld en goedgekeurd door de Medisch Ethische Toetsingscommissie. Deze commissie heeft dit protocol met name beoordeeld op het beschermen van de rechten, de veiligheid en het welzijn van u als deelnemer aan de klinische trial.
 
