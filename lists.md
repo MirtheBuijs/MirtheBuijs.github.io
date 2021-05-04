@@ -1,4 +1,5 @@
 **Deelnemen aan klinische trials bij Maastro**
+
 In het volgende gedeelte krijgt u antwoord op de volgende vragen: Hoe kan ik meedoen aan een klinische trial bij Maastro Clinic? Wat betekent deelname aan een klinische trial voor mij? Zijn er klinische trials bij MAASTRO CLINIC beschikbaar voor mij? 
 
 **Hoe kan ik meedoen aan een klinische trial?**
