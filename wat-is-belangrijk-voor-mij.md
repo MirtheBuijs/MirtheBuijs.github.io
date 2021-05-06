@@ -1,4 +1,5 @@
 **Wat is voor mij belangrijk bij deelname aan een trial?**
+
 Hieronder staan 16 verschillende argumenten die patiënten vaak geven om wel of niet mee te doen aan een trial. Een aantal van deze argumenten zouden ook voor u kunnen gelden. Geeft per argument aan welk antwoord het beste bij u past. 
 
 _Stellingen:_
@@ -33,4 +34,5 @@ _Stellingen:_
 
 
 **Resultaten 'Wat is belangrijk voor mij?'**
+
 Op deze pagina ziet u een overzicht van die zaken die voor u van belang zijn voor deelname aan een klinische trial. Dit overzicht is gemaakt op basis van uw mening op de argumenten van andere om wel of niet deel te nemen aan een klinisch trial. U kunt deze pagina printen en meenemen naar het gesprek met de trialpoli medewerker. Deze medewerker zal uw antwoorden verduidelijken op basis van de klinische trial waarvoor u in aanmerking komt.
