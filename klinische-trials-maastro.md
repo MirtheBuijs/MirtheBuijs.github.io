@@ -1,13 +1,4 @@
-**Beslismoment**
+**Zijn er klinische trials bij MAASTRO CLINIC voor mij?**
 
-Beslissen of u wilt deelnemen aan een studie is een belangrijk proces en gebeurd op vrijwillige basis. 
-(video toevoegen)
-
-**Belafspraak**
-
-Na een bedenktijd van ongeveer 3 dagen neemt een medewerker van de trialpoli telefonisch contact met u op. Dit wordt vooraf met u afgesproken. Tijdens deze bedenktijd kunt u ook eerder uw beslissing doorgeven door contact op te nemen met een medewerker van de trialpoli via  +31 681131738 of @ trial.poli.maastro@maastro.nl 
-
-**Wel of geen deelname?**
-
-Niet willen deelnemen? Deelnemen aan wetenschappelijk onderzoek is vrijwillig. U beslist zelf of u meedoet en u mag ook weigeren. Alleen als u schriftelijk (handtekening) akkoord bent, kunt u als proefpersoon meedoen aan het onderzoek. Als u niet wilt meedoen, hoeft u verder niets te doen. U hoeft nergens te tekenen. U hoeft niet te vertellen waarom u niet wilt meedoen. U krijgt de normale behandeling die u anders ook zou krijgen.
-Tip: bespreek de klinische trial waarvoor u in aanmerking komt met uw naasten of uw huisarts. 
+Het is mogelijk dat u door uw arts wordt gevraagd voor deelname aan een wetenschappelijk onderzoek. Als u interesse heeft voor deelname aan een wetenschappelijk onderzoek dan zult u, nadat uw radiotherapeut u hiervoor gevraagd heeft, verder over de inhoud van de studie worden geïnformeerd door één van de medewerkers van de trialpoli. Deze medewerker vertelt u alles over wat deelname aan het onderzoek inhoudt en wat u allemaal kunt verwachten als u zou meedoen aan een onderzoek.
+Op https://www.maastro.nl/nl/5/621/lopende-trials.aspx kunt u meer informatie vinden over de actuele klinische trials die er bij Maastro Clinic zijn. 
