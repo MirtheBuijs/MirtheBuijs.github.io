@@ -21,7 +21,8 @@ In deze laatste stap, na registratie van de nieuwe behandeling, wordt gekeken na
 **Hoe werkt een loting (randomisatie)?**
 
 Om in fase III studies beide groepen goed met elkaar te kunnen vergelijken en zo een betrouwbaar antwoord te geven op de vraag welke behandeling de beste resultaten biedt, bepaalt een lotingssysteem (randomisatie) welke deelnemer in welke groep terechtkomt. 
-De helft van de patiënten die deelneemt krijgt de standaardbehandeling, de andere helft de nieuwe behandeling. Wie welke behandeling zal ondergaan, wordt bepaald door toeval. Denk hierbij bijvoorbeeld aan het opgooien van een munt: kop of munt. Meestal gebeurd het randomiseren door gebruik te maken van speciale software.   
+Een deel van de patiënten die deelneemt krijgt de standaardbehandeling, het andere deel van de patiënten krijgt de nieuwe behandeling. De verdeling van de groepen is per klinische trial verschillend. Wie welke behandeling zal ondergaan, wordt bepaald door toeval. Denk hierbij bijvoorbeeld aan het opgooien van een munt: kop of munt. Meestal gebeurd het randomiseren door gebruik te maken van speciale software.   
+
 [Plaatje “Standaard (controlegroep); Nieuwe (interventiegroep)”]
  Wat u moet weten over het loten:
 - een “gerandomiseerd gecontroleerd onderzoek ” wordt wereldwijd beschouwd als gouden standaard om nieuwe behandelingen te onderzoeken;
