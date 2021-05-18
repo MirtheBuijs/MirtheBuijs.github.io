@@ -21,7 +21,7 @@ Uw gegevens worden minimaal 15 jaar bewaard.
 
 _Tijd_
 
-Als U ervoor kiest om mee te doen aan wetenschappelijk onderzoek kan het zijn dat u vaker op controle moet komen. Afhankelijk van de trial wordt u gevraagd om op een vast tijdstip een medicijn in te nemen, een dagboek bijhouden of vragenlijsten in te vullen. Meedoen kost voor u vaak extra tijd, mogelijk ook in de toekomst doordat het onderzoek vaak doorgaat met periodieke controles. 
+Als U ervoor kiest om mee te doen aan wetenschappelijk onderzoek kan het zijn dat u vaker op controle moet komen. Afhankelijk van de trial wordt u gevraagd om op een vast tijdstip een medicijn in te nemen, een dagboek bij te houden of vragenlijsten in te vullen. Meedoen kost voor u vaak extra tijd, mogelijk ook in de toekomst. Soms worden er ook in de toekomst, na de behandeling, nog extra controle afspraken gepland.  
 
 _Risico_
 
@@ -79,7 +79,7 @@ De gegevens die de onderzoeker over u verzamelt, blijven geheim. De onderzoeker 
 
 **Krijg ik een betere behandeling als ik mee doe aan deze onderzoeken?**
 
-Nee, dat kunnen wij u garanderen. Maar elk onderzoek brengt ons een stap dichterbij betere behandelingen en genezing van kanker. Misschien levert het voor u niets op, maar mogelijk wel voor mensen die over een jaar of over een paar jaar ziek worden.
+Nee, dat kunnen wij u niet garanderen. Maar elk onderzoek brengt ons een stap dichterbij betere behandelingen en genezing van kanker. Misschien levert het voor u niets op, maar mogelijk wel voor mensen die over een jaar of over een paar jaar ziek worden.
 
 
 **Eentje meer, eentje minder: maakt het eigenlijk iets uit als ik meedoe?**
