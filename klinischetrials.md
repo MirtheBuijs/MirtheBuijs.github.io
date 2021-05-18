@@ -29,7 +29,7 @@ Een deel van de patiënten die deelneemt krijgt de standaardbehandeling, het and
 - Door het willekeurig verdelen van patiënten over beide groepen worden de verschillende groepen deelnemers zo gelijk mogelijk gehouden met één uitzondering: de nieuwe behandeling. Alle andere factoren die de behandeling zouden kunnen beïnvloeden over beide groepen verdeelt. 
 - De extra onderzoeken en/of controles zijn gelijk voor de standaardbehandeling én de nieuwe behandeling. 
 - Het kan zijn dat u nog niet weet welke behandeling u gaat krijgen (standaard of nieuwe) als dit geldt voor de klinische trial waaraan u gaat deelnemen wordt u dit vooraf verteld.
-
+- Daarnaast wordt de uitslag van de randomisatie niet altijd aan deelnemer en/of arts verteld. Dit wordt single blind/double blind genoemd. Dit houd in dat zowel de proefpersoon en/of de arts gedurende het onderzoek geen kennis heeft over wie bij welke groep behoord, hierdoor is er geen invloed van eventuele verwachtingen van proefpersoon en/of arts.
 
 
 **Word ik beschermd als ik deelneem aan een klinische trial?**
