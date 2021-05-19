@@ -1,4 +1,4 @@
-# Welkom bij dit keuzehulpmiddel over klinische trials. 
+# Welkom bij dit keuzehulpmiddel over klinische trials
 Een klinische trial (Engels: clinical trial) wordt ook wel wetenschappelijk onderzoek, klinisch onderzoek of klinische studie genoemd. 
 
 
