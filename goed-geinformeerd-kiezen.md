@@ -1,7 +1,7 @@
-**Goed geïnformeerd kiezen**
+# Goed geïnformeerd kiezen
 
-**Wat weet ik over (meedoen aan) klinische trials?**
-Onderstaand ziet u een knop, als u op deze knop klikt verschijnen 13 verschillende stellingen, deze kunt u met waar of niet waar beantwoorden. U kunt hier controleren of u voorafgaande informatie begrepen hebt. Mocht u  na het doorlopen van deze stellingen nog vragen hebben,  kunt u deze meenemen in uw gesprek met uw arts of de  Trialpoli .
+## Wat weet ik over (meedoen aan) klinische trials?
+Onderstaand ziet u  13 verschillende stellingen, deze kunt u met waar of niet waar beantwoorden. U kunt hier controleren of u voorafgaande informatie begrepen hebt. Mocht u  na het doorlopen van deze stellingen nog vragen hebben,  kunt u deze meenemen in uw gesprek met uw arts of de  Trialpoli .
 
 [waar/niet waar vragen met na het antwoord geven een korte uitleg]
 1.	Als ik deelneem aan en trial moet ik in iedere situatie vaker naar  het ziekenhuis komen. 
