@@ -1,8 +1,8 @@
-# Klinische trials
+# Klinische studies
 
-## Wat zijn de fasen van een klinische trial?
+## Wat zijn de fasen van een klinische studie?
 
-Klinische trials worden uitgevoerd in verschillende stappen die we fasen noemen. In elke fase willen we nieuwe informatie over de behandeling en de effecten hiervan te weten komen. De verschillende fasen worden aan u als patiënt voorgesteld afhankelijk van uw conditie, het type en stadium van uw kanker. Elke nieuwe fase is afhankelijk van informatie uit een eerdere fase en vloeit hieruit voort.
+Klinische studies worden uitgevoerd in verschillende stappen die we fasen noemen. In elke fase willen we nieuwe informatie over de behandeling en de effecten hiervan te weten komen. De verschillende fasen worden aan u als patiënt voorgesteld afhankelijk van uw conditie, het type en stadium van uw kanker. Elke nieuwe fase is afhankelijk van informatie uit een eerdere fase en vloeit hieruit voort.
 
 ##### Fase I
 Een nieuwe behandeling wordt gegeven aan een kleine groep patiënten om de veilige hoeveelheid (dosering) van een nieuw geneesmiddel of een nieuw te gebruiken behandelmethode te bepalen. Dit wordt stapsgewijs onderzocht. Eerst wordt een kleine hoeveelheid (dosis) van het medicijn of de bestraling toegediend. De onderzoekers gaan na of er bijwerkingen optreden en of de patiënten deze bijwerkingen verdragen. Blijkt dit het geval, dan wordt bij een nieuw groepje patiënten een iets hogere dosering onderzocht. Dit gebeurt steeds opnieuw, totdat de hoogst mogelijke dosering is gevonden waarbij de bijwerkingen aanvaardbaar zijn.
@@ -25,15 +25,15 @@ Een deel van de patiënten die deelneemt krijgt de standaardbehandeling, het and
 
 [Plaatje “Standaard (controlegroep); Nieuwe (interventiegroep)”]
  Wat u moet weten over het loten:
-- een “gerandomiseerd gecontroleerd onderzoek ” wordt wereldwijd beschouwd als gouden standaard om nieuwe behandelingen te onderzoeken;
+- een “gerandomiseerd gecontroleerd onderzoek” wordt wereldwijd beschouwd als gouden standaard om nieuwe behandelingen te onderzoeken;
 - Door het willekeurig verdelen van patiënten over beide groepen worden de verschillende groepen deelnemers zo gelijk mogelijk gehouden met één uitzondering: de nieuwe behandeling. Alle andere factoren die de behandeling zouden kunnen beïnvloeden over beide groepen verdeelt. 
 - De extra onderzoeken en/of controles zijn gelijk voor de standaardbehandeling én de nieuwe behandeling. 
-- Het kan zijn dat u nog niet weet welke behandeling u gaat krijgen (standaard of nieuwe) als dit geldt voor de klinische trial waaraan u gaat deelnemen wordt u dit vooraf verteld.
+- Het kan zijn dat u nog niet weet welke behandeling u gaat krijgen (standaard of nieuwe) als dit geldt voor de klinische studie waaraan u gaat deelnemen wordt u dit vooraf verteld.
 - Daarnaast wordt de uitslag van de randomisatie niet altijd aan deelnemer en/of arts verteld. Dit wordt single blind/double blind genoemd. Dit houd in dat zowel de proefpersoon en/of de arts gedurende het onderzoek geen kennis heeft over wie bij welke groep behoord, hierdoor is er geen invloed van eventuele verwachtingen van proefpersoon en/of arts.
 
 
-## Word ik beschermd als ik deelneem aan een klinische trial?
+## Word ik beschermd als ik deelneem aan een klinische studie?
 
-Als u deelneemt aan een klinische trial zijn er vooraf maatregelen genomen die u zoveel mogelijk beschermen. Zo moeten de onderzoek medewerkers die betrokken zijn bij uw behandeling, zich houden aan een vooraf opgesteld protocol (onderzoeksplan) waarin het doel en de procedures van de klinische trial zijn beschreven. Dit protocol is beoordeeld en goedgekeurd door de Medisch Ethische Toetsingscommissie. Deze commissie heeft dit protocol met name beoordeeld op het beschermen van de rechten, de veiligheid en het welzijn van u als deelnemer aan de klinische trial.
+Als u deelneemt aan een klinische studie zijn er vooraf maatregelen genomen die u zoveel mogelijk beschermen. Zo moeten de onderzoek medewerkers die betrokken zijn bij uw behandeling, zich houden aan een vooraf opgesteld protocol (onderzoeksplan) waarin het doel en de procedures van de klinische studie zijn beschreven. Dit protocol is beoordeeld en goedgekeurd door de Medisch Ethische Toetsingscommissie. Deze commissie heeft dit protocol met name beoordeeld op het beschermen van de rechten, de veiligheid en het welzijn van u als deelnemer aan de klinische studie.
 
 
