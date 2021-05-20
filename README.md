@@ -10,6 +10,7 @@ De uiteindelijke keuze die u maakt heeft geen invloed op uw behandeling.
 Bekijk de onderstaande video om beter te begrijpen hoe dit keuzehulpmiddel gebruikt dient te worden. Dit keuzehulpmiddel is niet bedoeld het gesprek met uw arts te vervangen. Het is uitsluitend de bedoeling u beter inzicht te geven in wat u kunt verwachten en u te informeren dat er alternatieven mogelijk zijn.
 (Hier de animatie toevoegen)
 
+<iframe src="https://player.vimeo.com/video/211269365?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 ## Wat is een klinische studie?
 
