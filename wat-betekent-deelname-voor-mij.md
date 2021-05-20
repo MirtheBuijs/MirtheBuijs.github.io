@@ -3,11 +3,11 @@
 
 ## Zijn er verschillen met de 'gewone' behandeling?
 
-Door mee te doen aan een klinische trial, krijgt u meer onderzoek en/of heeft u meer afspraken met de behandelend specialist, dan wanneer u niet deelneemt. Daarnaast wordt u uitgebreid geïnformeerd en moet u toestemming geven voor deelname.  Ook kan het gebeuren dat uw behandelteam uit meer personen bestaat dan gebruikelijk. Zo kunnen er artsen, verpleegkundigen, trial assistenten en maatschappelijk werkers bij betrokken zijn.
+Door mee te doen aan een klinische studie, krijgt u meer onderzoek en/of heeft u meer afspraken met de behandelend specialist, dan wanneer u niet deelneemt. Daarnaast wordt u uitgebreid geïnformeerd en moet u toestemming geven voor deelname.  Ook kan het gebeuren dat uw behandelteam uit meer personen bestaat dan gebruikelijk. Zo kunnen er artsen, verpleegkundigen, trial assistenten en maatschappelijk werkers bij betrokken zijn.
 
-## Zijn er risico's bij deelname aan klinische trials?
+## Zijn er risico's bij deelname aan klinische studies?
 
-Er zijn verschillende risico's die in aanmerking moeten worden genomen alvorens aan een klinische studie deel te nemen. De nieuwe behandeling kan onvoorspelbare of ernstige bijwerkingen hebben. In sommige gevallen kunnen deze blijvend zijn. Dit is vooral belangrijk als u aan een studie wilt deelnemen waarbij voor het eerst een geneesmiddel bij mensen wordt getest (een fase I-onderzoek). Ondanks de hoop van artsen die het onderzoek uitvoeren, kan het zijn dat de nieuwe behandeling niet zo goed werkt als de behandelingen die al beschikbaar zijn, of misschien werkt deze helemaal niet in uw geval. Als u bezorgd bent om aan een klinische studie deel te nemen, praat hier dan over met uw arts of een medewerker van de trialpoli.
+Er zijn verschillende risico's die in aanmerking moeten worden genomen alvorens u aan een klinische studie gaat deelnemen. De nieuwe behandeling kan onvoorspelbare of ernstige bijwerkingen hebben. In sommige gevallen kunnen deze blijvend zijn. Dit is vooral belangrijk als u aan een studie wilt deelnemen waarbij voor het eerst een geneesmiddel bij mensen wordt getest (een fase I-onderzoek). Ondanks de hoop van artsen die het onderzoek uitvoeren, kan het zijn dat de nieuwe behandeling niet zo goed werkt als de behandelingen die al beschikbaar zijn, of misschien werkt deze helemaal niet in uw geval. Als u bezorgd bent om aan een klinische studie deel te nemen, praat hier dan over met uw arts of een medewerker van de trialpoli.
 
 ## Zijn mijn gegevens beschermd?
 
@@ -19,7 +19,7 @@ Uw gegevens worden minimaal 15 jaar bewaard.
 
 ##### Tijd
 
-Als U ervoor kiest om mee te doen aan wetenschappelijk onderzoek kan het zijn dat u vaker op controle moet komen. Afhankelijk van de trial wordt u gevraagd om op een vast tijdstip een medicijn in te nemen, een dagboek bij te houden of vragenlijsten in te vullen. Meedoen kost voor u vaak extra tijd, mogelijk ook in de toekomst. Soms worden er ook in de toekomst, na de behandeling, nog extra controle afspraken gepland.  
+Als U ervoor kiest om mee te doen aan wetenschappelijk onderzoek kan het zijn dat u vaker op controle moet komen. Afhankelijk van de studie wordt u gevraagd om op een vast tijdstip een medicijn in te nemen, een dagboek bij te houden of vragenlijsten in te vullen. Meedoen kost voor u vaak extra tijd, mogelijk ook in de toekomst. Soms worden er ook in de toekomst, na de behandeling, nog extra controle afspraken gepland.  
 
 ##### Risico
 
@@ -35,39 +35,39 @@ Meedoen aan onderzoek kan zwaar of vervelend zijn, want:
 Het is belangrijk dat u zich aan die afspraken houdt. Dat is belangrijk om het onderzoek goed te laten verlopen. Indien u zich niet aan de afspraken houdt, zijn de uitkomsten van het onderzoek niet meer betrouwbaar. Lukt het u niet om u aan de afspraken te houden? Dan kan het zijn dat de onderzoeker beslist dat u niet langer kunt meedoen.
 
 
-## Krijg ik een vergoeding als ik deelneem aan een klinische trial?
+## Krijg ik een vergoeding als ik deelneem aan een klinische studie?
 
 Meestal krijgt u de reiskosten vergoed. Ook hoeft u niet te betalen voor geneesmiddelen of scans die u tijdens het onderzoek krijgt. De medewerker van de trialpoli zal u uitleggen voor welke afspraken u deze reiskosten vergoeding kunt aanvragen.
 
 
-## Wordt er gebruik gemaakt van placebo's bij klinische trials?
+## Wordt er gebruik gemaakt van placebo's bij klinische studies?
 
 Een placebo is dummy behandeling  zonder een actief medicijn. Bij onderzoek naar kanker wordt (bijna) nooit gebruik gemaakt van placebo’s. Mocht er gebruik gemaakt worden van een placebo wordt dit vooraf, door uw arts of de medewerker van de trialpoli, aan u uitgelegd .
 
 
-## Hoe lang is de opvolging na de klinische trial als ik deelneem?
+## Hoe lang is de opvolging na de klinische studie als ik deelneem?
 
-Dit verschilt per klinische trial afhankelijk van de fase en de opzet van de klinische trial. Bij een fase III is het soms wel 10 jaar. De medewerker van de trialpoli kan u dit vertellen voor de specifieke klinische trial waarvoor u in aanmerking komt. 
+Dit verschilt per klinische trial afhankelijk van de fase en de opzet van de klinische trial. Bij een fase III is het soms wel 10 jaar. De medewerker van de trialpoli kan u dit vertellen voor de specifieke klinische studie waarvoor u in aanmerking komt. 
 
 
 ## Kan ik de nieuwe behandeling krijgen?
 
-De behandeling die in een klinische trial wordt aangeboden, hangt af van de fase van de klinische trial, en de opzet van de trial. In fase I trials en in sommige fase II trials, is de nieuwe behandeling gewoonlijk de enige die wordt gegeven. In sommige fase II-trials en in bijna alle fase III-trials, kan het zijn dat er geloot wordt om de standaardbehandeling of de nieuwe behandeling te krijgen.
+De behandeling die in een klinische studie wordt aangeboden, hangt af van de fase van de klinische studie, en de opzet van de studie. In fase I studies en in sommige fase II studies, is de nieuwe behandeling gewoonlijk de enige die wordt gegeven. In sommige fase II-studies en in bijna alle fase III-studies, kan het zijn dat er geloot wordt om de standaardbehandeling of de nieuwe behandeling te krijgen.
 
 
 ## Wanneer krijg ik de uislag van de loting?
 
-Als u gaat deelnemen aan een gerandomiseerde klinische trial zal er een loting plaatsvinden. Deze loting wordt gedaan nadat u hiervoor toestemming heeft gegeven, door het ondertekenen van de toestemmingsverklaring én als het onderzoeksteam gecontroleerd heeft dat u voldoet aan alle criteria van de trial. Het kan zijn dat we voor de loting nog bepaalde informatie nodig hebben. Deze informatie kunnen wij pas verkrijgen nadat u toestemming heeft gegeven. Zodra wij uw (mondelinge) toestemming hebben kunnen wij starten met het verzamelen van de gegevens. Ook kan het zijn dat er voor deze informatie een extra onderzoek ingepland moeten worden.
+Als u gaat deelnemen aan een gerandomiseerde klinische studie zal er een loting plaatsvinden. Deze loting wordt gedaan nadat u hiervoor toestemming heeft gegeven, door het ondertekenen van de toestemmingsverklaring én als het onderzoeksteam gecontroleerd heeft dat u voldoet aan alle criteria van de studie. Het kan zijn dat we voor de loting nog bepaalde informatie nodig hebben. Deze informatie kunnen wij pas verkrijgen nadat u toestemming heeft gegeven. Zodra wij uw (mondelinge) toestemming hebben kunnen wij starten met het verzamelen van de gegevens. Ook kan het zijn dat er voor deze informatie een extra onderzoek ingepland moeten worden.
 
 
-## Wat gebeurt er als ik wil stoppen met deelname aan een klinische trial?
+## Wat gebeurt er als ik wil stoppen met deelname aan een klinische studie?
 
-Deelname is vrijwillig en u mag altijd stoppen, voor én tijdens de trial. Soms kunt u niet meteen stoppen omdat dit ongezond of riskant is. Hiervoor is misschien medische begeleiding nodig. Als u wilt stoppen met het onderzoek dient u contact op te nemen met een medewerker van de trialpoli.
+Deelname is vrijwillig en u mag altijd stoppen, voor én tijdens de studie. Soms kunt u niet meteen stoppen omdat dit ongezond of riskant is. Hiervoor is misschien medische begeleiding nodig. Als u wilt stoppen met het onderzoek dient u contact op te nemen met een medewerker van de trialpoli.
 
 
-## Wat gebeurt er met mijn gegevens als ik vroegtijdig stop met deelname aan de klinische trial?
+## Wat gebeurt er met mijn gegevens als ik vroegtijdig stop met deelname aan de klinische studie?
 
-Als u besluit te stoppen met de deelname wordt u gevraagd of de onderzoeker de gegevens tot dan toe mag gebruiken. Ook al zijn deze misschien niet volledig.
+Als u besluit te stoppen met de deelname wordt u gevraagd of de onderzoeker de gegevens tot dan toe mag gebruiken, ook al zijn deze misschien niet volledig.
 
 
 ## Wie kan mijn gegevens inzien?
