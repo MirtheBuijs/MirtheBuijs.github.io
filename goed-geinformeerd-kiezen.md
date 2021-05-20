@@ -1,10 +1,10 @@
 # Goed geïnformeerd kiezen
 
-## Wat weet ik over (meedoen aan) klinische trials?
+## Wat weet ik over (meedoen aan) klinische studies?
 Onderstaand ziet u  13 verschillende stellingen, deze kunt u met waar of niet waar beantwoorden. U kunt hier controleren of u voorafgaande informatie begrepen hebt. Mocht u  na het doorlopen van deze stellingen nog vragen hebben,  kunt u deze meenemen in uw gesprek met uw arts of de  Trialpoli .
 
 [waar/niet waar vragen met na het antwoord geven een korte uitleg]
-1.	Als ik deelneem aan en trial moet ik in iedere situatie vaker naar  het ziekenhuis komen. 
+1.	Als ik deelneem aan en studie moet ik in iedere situatie vaker naar  het ziekenhuis komen. 
 (niet waar) 
 De medewerker van de trialpoli zal u informeren over de tijdsverplichtingen als u besluit om deel te nemen aan de trial. Dit verschilt per trial en kan vaak meer bezoeken dan gebruikelijk aan het ziekenhuis betekenen.
 
@@ -16,12 +16,12 @@ U krijgt voldoende tijd om te bedenken of u wilt meedoen. U hoeft (in de meeste 
 
 3.	Omdat ik geloot heb voor de standaardbehandeling, doe ik niet mee aan de studie? 
 (niet waar)
-Als u toestemming heeft gegeven voor deelname aan een trial dan neemt u ongeacht de uitslag van de loting deel aan de studie. Ondanks dat u niet de nieuwe behandeling krijgt, zijn alle andere handelingen (zoals vragenlijsten of follow up- momenten) voor alle proefpersonen gelijk.
+Als u toestemming heeft gegeven voor deelname aan een studie dan neemt u ongeacht de uitslag van de loting deel aan de studie. Ondanks dat u niet de nieuwe behandeling krijgt, zijn alle andere handelingen (zoals vragenlijsten of follow up- momenten) voor alle proefpersonen gelijk.
 
 
 4.	Ik kan niet eerder stoppen met deelname aan een studie? 
 (niet waar)
-Deelname is vrijwillig en u mag altijd stoppen, voor én tijdens de trial. Soms kunt u niet meteen stoppen omdat dit ongezond of riskant is. Hiervoor is misschien medische begeleiding nodig. Als u wilt stoppen neemt u contact op met een medewerker van de trialpoli.
+Deelname is vrijwillig en u mag altijd stoppen, voor én tijdens de studie. Soms kunt u niet meteen stoppen omdat dit ongezond of riskant is. Hiervoor is misschien medische begeleiding nodig. Als u wilt stoppen neemt u contact op met een medewerker van de trialpoli.
 
 
 5.	Deelname aan wetenschappelijk onderzoek is gevaarlijk. 
