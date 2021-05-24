@@ -17,15 +17,15 @@ Uw gegevens worden minimaal 15 jaar bewaard.
 
 ## Waar moet ik rekening mee houden?
 
-##### Tijd
+##### Tijd ![image](https://user-images.githubusercontent.com/83635539/119350097-37632b00-bc9f-11eb-94e7-e6d203afc870.png)
 
 Als U ervoor kiest om mee te doen aan wetenschappelijk onderzoek kan het zijn dat u vaker op controle moet komen. Afhankelijk van de studie wordt u gevraagd om op een vast tijdstip een medicijn in te nemen, een dagboek bij te houden of vragenlijsten in te vullen. Meedoen kost voor u vaak extra tijd, mogelijk ook in de toekomst. Soms worden er ook in de toekomst, na de behandeling, nog extra controle afspraken gepland.  
 
-##### Risico
+##### Risico ![image](https://user-images.githubusercontent.com/83635539/119350032-22869780-bc9f-11eb-8604-b3a6f3953ca4.png)
 
 Soms loopt u een risico als u meedoet aan onderzoek. Bijvoorbeeld als een nieuwe behandeling wordt onderzocht. Niet alle effecten en bijwerkingen zijn al bekend. De onderzoeker zal vaak extra testen doen en bloed afnemen. Hoe groot het risico is, hangt af van het soort onderzoek en van uw gezondheid. De medewerker van de trialpoli legt u dit uit. 
 
-##### Inspanning
+##### Inspanning ![image](https://user-images.githubusercontent.com/83635539/119350360-84470180-bc9f-11eb-9c6d-0792527a4c92.png)
 
 Meedoen aan onderzoek kan zwaar of vervelend zijn, want: 
 · soms is extra lichamelijk onderzoek nodig; 
