@@ -12,4 +12,5 @@ Na een bedenktijd van ongeveer 3 dagen neemt een medewerker van de trialpoli tel
 ## Wel of geen deelname?
 
 Niet willen deelnemen? Deelnemen aan wetenschappelijk onderzoek is vrijwillig. U beslist zelf of u meedoet en u mag ook weigeren. Alleen als u schriftelijk (handtekening) akkoord bent, kunt u als proefpersoon meedoen aan het onderzoek. Als u niet wilt meedoen, hoeft u verder niets te doen. U hoeft nergens te tekenen. U hoeft niet te vertellen waarom u niet wilt meedoen. U krijgt de normale behandeling die u anders ook zou krijgen.
-Tip: bespreek de klinische trial waarvoor u in aanmerking komt met uw naasten of uw huisarts. 
+
+![image](https://user-images.githubusercontent.com/83635539/119349266-41385e80-bc9e-11eb-814e-6c450e5f54a3.png) Tip: bespreek de klinische trial waarvoor u in aanmerking komt met uw naasten of uw huisarts. 
