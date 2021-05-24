@@ -12,6 +12,8 @@ Bekijk de onderstaande video om beter te begrijpen hoe dit keuzehulpmiddel gebru
 
 <iframe src="https://player.vimeo.com/video/211269365?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
+<iframe src="https://player.vimeo.com/video/258599783?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
 ## Wat is een klinische studie?
 
 Een klinische studie is het testen van een nieuwe behandeling bij proefpersonen. Na succesvolle studies in laboratoria en bij dieren zijn klinische studies bij patiënten de laatste stap om vast te stellen of een nieuwe behandeling werkzaam en veilig is. Een nieuwe behandeling wordt alleen maar toegelaten wanneer uit klinische studies blijkt dat de behandeling werkzaam is en geen ernstige bijwerken laten zien.
