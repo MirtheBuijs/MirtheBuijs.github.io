@@ -23,8 +23,9 @@ In deze laatste stap, na registratie van de nieuwe behandeling, wordt gekeken na
 Om in fase III studies beide groepen goed met elkaar te kunnen vergelijken en zo een betrouwbaar antwoord te geven op de vraag welke behandeling de beste resultaten biedt, bepaalt een lotingssysteem (randomisatie) welke deelnemer in welke groep terechtkomt. 
 Een deel van de patiënten die deelneemt krijgt de standaardbehandeling, het andere deel van de patiënten krijgt de nieuwe behandeling. De verdeling van de groepen is per klinische trial verschillend. Wie welke behandeling zal ondergaan, wordt bepaald door toeval. Denk hierbij bijvoorbeeld aan het opgooien van een munt: kop of munt. Meestal gebeurd het randomiseren door gebruik te maken van speciale software.   
 
-[Plaatje “Standaard (controlegroep); Nieuwe (interventiegroep)”]
- Wat u moet weten over het loten:
+![image](https://user-images.githubusercontent.com/83635539/119348107-b9058980-bc9c-11eb-979b-151556fb49a2.png)
+ 
+Wat u moet weten over het loten:
 - een “gerandomiseerd gecontroleerd onderzoek” wordt wereldwijd beschouwd als gouden standaard om nieuwe behandelingen te onderzoeken;
 - Door het willekeurig verdelen van patiënten over beide groepen worden de verschillende groepen deelnemers zo gelijk mogelijk gehouden met één uitzondering: de nieuwe behandeling. Alle andere factoren die de behandeling zouden kunnen beïnvloeden over beide groepen verdeelt. 
 - De extra onderzoeken en/of controles zijn gelijk voor de standaardbehandeling én de nieuwe behandeling. 
