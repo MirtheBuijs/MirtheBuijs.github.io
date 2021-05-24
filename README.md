@@ -1,6 +1,8 @@
 # Welkom bij dit keuzehulpmiddel over klinische studies
 Een klinische studie (Engels: clinical trial) wordt ook wel wetenschappelijk onderzoek, klinisch onderzoek of klinische trial genoemd. 
 
+![image](https://user-images.githubusercontent.com/83635539/119349056-f9193c00-bc9d-11eb-9180-abb42b2faa95.png) Het doorlopen van deze keuzehulp duurt +/- 30 minuten.
+
 
 ## Wat is een keuzehulpmiddel?
 
