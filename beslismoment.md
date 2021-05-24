@@ -2,7 +2,7 @@
 
 Beslissen of u wilt deelnemen aan een studie is een belangrijk proces en gebeurd op vrijwillige basis. 
 
-<iframe src="https://player.vimeo.com/video/258599783?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/256946619?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Belafspraak
