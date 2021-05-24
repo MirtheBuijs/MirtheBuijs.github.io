@@ -4,7 +4,9 @@ In het volgende gedeelte krijgt u antwoord op de volgende vragen: Hoe kan ik mee
 
 ## Hoe kan ik deelnemen aan een klinische studie?
 
-In de onderstaand video wordt er uitgelegd wat er allemaal aan orde komt tijdens een intake gesprek met uw arts. (video toevoegen)
+In de onderstaand video wordt er uitgelegd wat er allemaal aan orde komt tijdens een intake gesprek met uw arts. 
+
+<iframe src="https://player.vimeo.com/video/256945920?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 Wanneer u in aamerking komt voor deelname aan een klinische studie zult u na het intake gesprek met uw arts in contact komen met de Trialpoli van Maastro.
 Maastro maakt gebruik van de Trialpoli voor het zorgvuldig en uitgebreid informeren van mogelijke deelnemers over de inhoud van een studie. Een medewerker van de Trialpoli zal u alles vertellen wat deelname aan het onderzoek inhoudt en wat u allemaal kunt verwachten als u zou meedoen aan een onderzoek. 
