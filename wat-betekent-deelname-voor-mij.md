@@ -7,7 +7,7 @@ Door mee te doen aan een klinische studie, krijgt u meer onderzoek en/of heeft u
 
 ## Zijn er risico's bij deelname aan klinische studies?
 
-Er zijn verschillende risico's die in aanmerking moeten worden genomen alvorens u aan een klinische studie gaat deelnemen. De nieuwe behandeling kan onvoorspelbare of ernstige bijwerkingen hebben. In sommige gevallen kunnen deze blijvend zijn. Dit is vooral belangrijk als u aan een studie wilt deelnemen waarbij voor het eerst een geneesmiddel bij mensen wordt getest (een fase I-onderzoek). Ondanks de hoop van artsen die het onderzoek uitvoeren, kan het zijn dat de nieuwe behandeling niet zo goed werkt als de behandelingen die al beschikbaar zijn, of misschien werkt deze helemaal niet in uw geval. Als u bezorgd bent om aan een klinische studie deel te nemen, praat hier dan over met uw arts of een medewerker van de trialpoli.
+Er kunnen verschillende risico's zijn die in aanmerking moeten worden genomen alvorens u aan een klinische studie gaat deelnemen. De nieuwe behandeling kan onvoorspelbare of ernstige bijwerkingen hebben. In sommige gevallen kunnen deze blijvend zijn. Dit is vooral belangrijk als u aan een studie wilt deelnemen waarbij voor het eerst een geneesmiddel bij mensen wordt getest (een fase I-onderzoek). Ondanks de hoop van artsen die het onderzoek uitvoeren, kan het zijn dat de nieuwe behandeling niet zo goed werkt als de behandelingen die al beschikbaar zijn, of misschien werkt deze helemaal niet in uw geval. Als u bezorgd bent om aan een klinische studie deel te nemen, praat hier dan over met uw arts of een medewerker van de trialpoli.
 
 ## Zijn mijn gegevens beschermd?
 
