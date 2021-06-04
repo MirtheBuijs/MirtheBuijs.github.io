@@ -12,7 +12,7 @@ Hieronder staan 16 verschillende argumenten die patiënten vaak geven om wel of 
 7.	Ik heb het gevoel dat ik niet kan weigeren zelf deel te nemen omdat op dit moment maar een klein aantal van de patiënten, die voldoen aan de toelatingscriteria, besluit om daadwerkelijk deel te nemen;
 8.	Ik vind het belangrijk om deel te nemen aan een klinische studie, ook al weet ik dat de mogelijk gunstige resultaten van een studie nog niet ten goede komen aan mezelf.  Ik vind het belangrijk dat ik anderen met deze ziekte in de toekomst kan helpen aan de volgende generaties ((klein)kinderen);
 9.	Ik heb graag de controle over de behandeling van mijn ziekte en wil niet dat mijn behandeling bepaald wordt door loting. 
-10.	Als ik aan een studie deelneem en ik krijg niet de experimentele behandeling vind ik dit moeilijk
+10.	Als ik aan een studie deelneem en ik krijg niet de nieuwe behandeling vind ik dit moeilijk
 11.	Ik maak me zorgen over de extra tijd die ik moet investeren als ik deelneem aan de studie
 12.	Ik maak me zorgen over de extra studiehandelingen die ik zou moeten gaan maken
 13.	Ik vind dat de informatie van de specialist niet duidelijk of overtuigend is;
