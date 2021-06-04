@@ -20,9 +20,13 @@ Dit proces gaat ook door tijdens de klinische studie, bijv. als er nieuwe bevind
 
 Het is niet altijd mogelijk om aan een studie deel te nemen, zelfs als u dit wenst. Als onderzoekers klinische studies opzetten, hebben zij gewoonlijk een serie strenge regels die hen helpen bij het kiezen van deelnemers. Als patiënten te ziek zijn kan het mogelijk zijn dat de behandeling niet veilig kan worden gegeven uit vrees voor bijwerkingen.
 U kunt misschien niet in aanmerking komen om deel te nemen aan het onderzoek, als:
+
 •	uw algemene gezondheid niet goed genoeg is 
+
 •	u een eerdere behandeling voor uw kanker heeft gehad die van invloed kan zijn op de resultaten van het onderzoek
+
 •	u andere ziekten heeft (bijv. diabetes mellitus of auto-immuunziekten), waardoor u waarschijnlijk meer kans op bijwerkingen heeft, of die van invloed kunnen zijn op de resultaten van het onderzoek
+
 •	u een andere vorm van kanker in het verleden hebt gehad
 
 Tijdens de “screening” periode zal het team een aantal testen uitvoeren om zeker te zijn dat u voldoet aan alle studiecriteria. Soms kunnen uit deze testen nieuwe resultaten voortkomen waaruit blijkt dat u niet langer in aanmerking komt voor het onderzoek.
