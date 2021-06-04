@@ -26,8 +26,8 @@ Een deel van de patiënten die deelneemt krijgt de standaardbehandeling, het and
 ![image](https://user-images.githubusercontent.com/83635539/119348290-f702ad80-bc9c-11eb-8dc4-7b68af1c290a.png)
  
 Wat u moet weten over het loten:
-- een “gerandomiseerd gecontroleerd onderzoek” wordt wereldwijd beschouwd als gouden standaard om nieuwe behandelingen te onderzoeken;
-- Door het willekeurig verdelen van patiënten over beide groepen worden de verschillende groepen deelnemers zo gelijk mogelijk gehouden met één uitzondering: de nieuwe behandeling. Alle andere factoren die de behandeling zouden kunnen beïnvloeden over beide groepen verdeelt. 
+- Een “gerandomiseerd gecontroleerd onderzoek” wordt wereldwijd beschouwd als gouden standaard om nieuwe behandelingen te onderzoeken;
+- Door het willekeurig verdelen van patiënten over beide groepen worden de verschillende groepen deelnemers zo gelijk mogelijk gehouden met één uitzondering: de nieuwe behandeling. Alle andere factoren die de behandeling zouden kunnen beïnvloeden over beide groepen verdeeld. 
 - De extra onderzoeken en/of controles zijn gelijk voor de standaardbehandeling én de nieuwe behandeling. 
 - Het kan zijn dat u nog niet weet welke behandeling u gaat krijgen (standaard of nieuwe) als dit geldt voor de klinische studie waaraan u gaat deelnemen wordt u dit vooraf verteld.
 - Daarnaast wordt de uitslag van de randomisatie niet altijd aan deelnemer en/of arts verteld. Dit wordt single blind/double blind genoemd. Dit houd in dat zowel de proefpersoon en/of de arts gedurende het onderzoek geen kennis heeft over wie bij welke groep behoord, hierdoor is er geen invloed van eventuele verwachtingen van proefpersoon en/of arts.
