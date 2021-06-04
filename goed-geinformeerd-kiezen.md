@@ -1,10 +1,10 @@
 # Goed geïnformeerd kiezen
 
 ## Wat weet ik over (meedoen aan) klinische studies?
-Onderstaand ziet u  13 verschillende stellingen, deze kunt u met waar of niet waar beantwoorden. U kunt hier controleren of u voorafgaande informatie begrepen hebt. Mocht u  na het doorlopen van deze stellingen nog vragen hebben,  kunt u deze meenemen in uw gesprek met uw arts of de  Trialpoli .
+Onderstaand ziet u verschillende stellingen, deze kunt u met waar of niet waar beantwoorden. U kunt hier controleren of u voorafgaande informatie begrepen hebt. Mocht u  na het doorlopen van deze stellingen nog vragen hebben,  kunt u deze meenemen in uw gesprek met uw arts of de  Trialpoli .
 
 [waar/niet waar vragen met na het antwoord geven een korte uitleg]
-1.	Als ik deelneem aan en studie moet ik in iedere situatie vaker naar  het ziekenhuis komen. 
+1.	Als ik deelneem aan een studie moet ik in iedere situatie vaker naar  het ziekenhuis komen. 
 (niet waar) 
 De medewerker van de trialpoli zal u informeren over de tijdsverplichtingen als u besluit om deel te nemen aan de trial. Dit verschilt per trial en kan vaak meer bezoeken dan gebruikelijk aan het ziekenhuis betekenen.
 
