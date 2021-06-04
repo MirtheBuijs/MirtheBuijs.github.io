@@ -22,6 +22,7 @@ Het is niet altijd mogelijk om aan een studie deel te nemen, zelfs als u dit wen
 U kunt misschien niet in aanmerking komen om deel te nemen aan het onderzoek, als:
 
 •	uw algemene gezondheid niet goed genoeg is 
+
 •	u een eerdere behandeling voor uw kanker heeft gehad die van invloed kan zijn op de resultaten van het onderzoek
 
 •	u andere ziekten heeft (bijv. diabetes mellitus of auto-immuunziekten), waardoor u waarschijnlijk meer kans op bijwerkingen heeft, of die van invloed kunnen zijn op de resultaten van het onderzoek
