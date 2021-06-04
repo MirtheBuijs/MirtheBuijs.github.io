@@ -1,4 +1,4 @@
-# Wat betekend deelname voor mij?
+# Wat betekent deelname voor mij?
 
 
 ## Zijn er verschillen met de 'gewone' behandeling?
