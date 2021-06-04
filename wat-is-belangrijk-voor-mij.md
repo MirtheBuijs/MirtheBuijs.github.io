@@ -1,6 +1,6 @@
 # Wat is voor mij belangrijk bij deelname aan een studie?
 
-Hieronder staan 16 verschillende argumenten die patiënten vaak geven om wel of niet mee te doen aan een studie. Een aantal van deze argumenten zouden ook voor u kunnen gelden. Geeft per argument aan welk antwoord het beste bij u past (ja/nee). 
+Hieronder staan verschillende argumenten die patiënten vaak geven om wel of niet mee te doen aan een studie. Een aantal van deze argumenten zouden ook voor u kunnen gelden. Geeft per argument aan welk antwoord het beste bij u past (ja/nee). 
 
 ## Stellingen
 1.	Ik heb het gevoel dat als ik deelneem aan een klinische studie bestaat de kans bestaat dat ik langer blijf leven;
