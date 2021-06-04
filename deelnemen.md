@@ -34,7 +34,7 @@ Als blijkt dat u niet kunt deelnemen, zal uw arts of een medewerker van de trial
 
 ## Hoe ben ik verzekerd?
 
-De artsen/onderzoekers sluiten een verzekering voor u af. Deze verzekering vergoedt schade als gevolg van deelname aan het onderzoek. Voor de verzekering gelden een aantal uitsluitingen, zo moet de verzekering voldoen aan de eisen die in de wet aan wetenschappelijk medisch onderzoek (WMO) worden gesteld in het besluit “verplichte verzekering bij WMO”. Meer informatie over deze verzekering kunt u in de patiënten-informatie vinden die de medewerker van de trialpoli u zal geven.
+De artsen/onderzoekers sluiten een verzekering voor u af. Deze verzekering vergoedt eventuele schade, indien u die zou oplopen als gevolg van deelname aan het onderzoek. Voor de verzekering gelden een aantal uitsluitingen, zo moet de verzekering voldoen aan de eisen die in de wet aan wetenschappelijk medisch onderzoek (WMO) worden gesteld in het besluit “verplichte verzekering bij WMO”. Meer informatie over deze verzekering kunt u in de patiënten-informatie vinden die de medewerker van de trialpoli u zal geven.
 
 ## Wat gebeurt er met de resultaten van een klinische studie?
 
