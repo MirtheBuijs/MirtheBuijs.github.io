@@ -27,11 +27,16 @@ Soms loopt u een risico als u meedoet aan onderzoek. Bijvoorbeeld als een nieuwe
 
 ##### Inspanning ![image](https://user-images.githubusercontent.com/83635539/119350360-84470180-bc9f-11eb-9c6d-0792527a4c92.png)
 
-Meedoen aan onderzoek kan zwaar of vervelend zijn, want: 
-· soms is extra lichamelijk onderzoek nodig; 
+Meedoen aan onderzoek kan zwaar of vervelend zijn, want:
+
+· soms is extra lichamelijk onderzoek nodig;
+
 · soms krijgt u vragen over nare ervaringen; 
+
 · soms moet u stoppen met medicijnen die u al gebruikt; 
+
 · soms zijn er speciale afspraken, bijvoorbeeld voor het gebruik van anticonceptie. 
+
 Het is belangrijk dat u zich aan die afspraken houdt. Dat is belangrijk om het onderzoek goed te laten verlopen. Indien u zich niet aan de afspraken houdt, zijn de uitkomsten van het onderzoek niet meer betrouwbaar. Lukt het u niet om u aan de afspraken te houden? Dan kan het zijn dat de onderzoeker beslist dat u niet langer kunt meedoen.
 
 
