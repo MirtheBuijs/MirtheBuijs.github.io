@@ -82,10 +82,10 @@ De gegevens die de onderzoeker over u verzamelt, blijven geheim. De onderzoeker 
 
 ## Krijg ik een betere behandeling als ik mee doe aan deze onderzoeken?
 
-Nee, dat kunnen wij u niet garanderen. Maar elk onderzoek brengt ons een stap dichterbij betere behandelingen en genezing van kanker. Misschien levert het voor u niets op, maar mogelijk wel voor mensen die over een jaar of over een paar jaar ziek worden.
+Nee, dat kunnen wij u niet garanderen. Maar elk onderzoek brengt ons een stap dichterbij betere behandelingen en/of genezing van kanker. Misschien levert het voor u niets op, maar mogelijk wel voor mensen die over een jaar of over een paar jaar ziek worden.
 
 
 ## Eentje meer, eentje minder: maakt het eigenlijk iets uit als ik meedoe?
 
-Statistisch gezien zal een iemand minder op vele duizenden deelnemers niet veel verschil maken. Van de andere kant: elke extra deelnemer brengt het genezen van kanker een klein stapje dichter bij.
+Statistisch gezien zal een iemand minder op vele duizenden deelnemers niet veel verschil maken. Van de andere kant: elke extra deelnemer brengt het genezen van kanker of een betere behandeling een klein stapje dichter bij.
 
